@@ -1,5 +1,5 @@
 
-<img width=100% title="Nemonet TYP" alt="Nemonet TYP" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nemonet-🔰-TYP&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width=100% title="Ateeq Syed" alt="" src="https://www.linkedin.com/in/syedateeq160/"/>
 
 <!--
 <h1 align="center">
@@ -24,7 +24,7 @@
   </p>
 
   <p align="center">
-  <a href="https://github.com/The-Young-Programmer"><img src="https://readme-typing-svg.herokuapp.com/?lines=🔗%20Software%20Engineer;🌐%20Dynamic%20Web%20Designer;👨‍💻%20Fullstack%20Web%20Developer;📲%20Android%20App%20Developer;🎨%20UI/UX%20%20Design;🤝%203%2B%20years%20of%20coding%20experience;🔰%20Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/Syedateeq160"><img src="https://readme-typing-svg.herokuapp.com/?lines=🔗%20Software%20Engineer;🌐%20Dynamic%20Web%20Designer;👨‍💻%20Fullstack%20Web%20Developer;📲%20Android%20App%20Developer;🎨%20UI/UX%20%20Design;🤝%203%2B%20years%20of%20coding%20experience;🔰%20Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
   
   <!--
@@ -109,11 +109,11 @@
   <br/>
 
   <p align="left">
-  <a href="https://github.com/The-Young-Programmer/Math-Quize">
+  <a href="">
       <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-Young-Programmer&repo=Math-Quize&theme=react&bg_color=0D1117" alt="Math-Quize"></a>
-  <a href="https://github.com/The-Young-Programmer/Hangman-Game">
+  <a href="">
       <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-Young-Programmer&repo=Hangman-Game&theme=react&bg_color=0D1117" alt="Hangman-Game"></a>
-  <a href="https://github.com/The-Young-Programmer/C-CPP-Programming-Project">
+  <a href="">
       <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-Young-Programmer&repo=C-CPP-Programming-Project&theme=react&bg_color=0D1117" alt="C/C++"></a>
   
   </p>
@@ -158,14 +158,14 @@ No Bug No Life.
  contact
 </h4>
 <p align="left">
- <a href="https://www.instagram.com/t_nemonet" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="20" height="20" /></a>
+ <a href="https://www.instagram.com/thesoftwarebatman/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="20" height="20" /></a>
  <a href="https://www.linkedin.com/in/typ-nemonet" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="20" height="20" /></a>
  <a href="https://twitter.com/tnemonet" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="20" height="20" /></a>
  <a href="https://www.github.com/The-Young-Programmer" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="20" height="20" /></a></p>
 
-<h4>Support Me</h4>
+<h4>Let's have Coffee!</h4>
 
-<a href="https://www.buymeacoffee.com/The-Young-Programmer"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href=""><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
 
 
